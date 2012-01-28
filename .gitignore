@@ -1,0 +1,8 @@
+bin
+gen
+local.properties
+.DS_Store
+.project
+.classpath
+build.xml
+*.log
