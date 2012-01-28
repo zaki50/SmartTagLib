@@ -1,0 +1,4 @@
+アイオイ・システムの SmartTag http://www.hello-aioi.com/product/smarttag.html をAndroid で読み書きするためのライブラリです。
+
+SmartTag を買うとアイオイ・システムから配布入手できるサンプルコード元にライブラリ化したものです。
+仕様書の再配布は禁止されているので、仕様書が必要であればSmartTagとともに各自で入手してください。
